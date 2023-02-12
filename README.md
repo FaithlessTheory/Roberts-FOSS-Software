@@ -3,25 +3,28 @@ A list of daily driver and software recommendations for those who want to be les
 
 This list is purely my own opinion and changes over time with my experience and usage. It will expand as needed and typically includes a couple of options for various categories.
 
-Video Editors:
+Items with a :blue_car: are my daily drivers.
+Items with a :floppy_disk: are my alternative/backup software.
 
-Davinci Resolve
+### Video Editors:
+
+#### :blue_car: Davinci Resolve
 
 Reason:
 Its free, studio quality and for 99% of free users handles literally all you could ask for in a video production environment. 
 
 Website: https://www.blackmagicdesign.com/products/davinciresolve
 
-Kdenlive
+#### :floppy_disk: Kdenlive
 
 Reason:
 Free and open source. It is also very lightweight and functions well. Made some great progress in the years and when i have updates to Resolve or using my lighter weight ARM based Laptop this works a treat.
 
 Website: https://kdenlive.org/en/
 
-Programming/IDE
+### Programming/IDE
 
-VSCodium
+#### :blue_car: VSCodium
 
 Reason:
 Its VS Code without the bloat, telemetry and has great community support. 
