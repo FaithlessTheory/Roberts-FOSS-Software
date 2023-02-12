@@ -4,6 +4,7 @@ A list of daily driver and software recommendations for those who want to be les
 This list is purely my own opinion and changes over time with my experience and usage. It will expand as needed and typically includes a couple of options for various categories.
 
 Items with a :blue_car: are my daily drivers.
+
 Items with a :floppy_disk: are my alternative/backup software.
 
 ### Video Editors:
