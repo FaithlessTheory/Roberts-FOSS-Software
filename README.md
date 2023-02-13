@@ -31,3 +31,12 @@ Reason:
 Its VS Code without the bloat, telemetry and has great community support. 
 
 Website: https://vscodium.com
+
+### iOS/Linux Connections
+
+#### :blue_car: KDE Connect
+
+Reason:
+Allowing the sending of information (photos, videos, clipboard, files) from iOS devices to Linux/KDE and back. 
+
+Website: https://kdeconnect.kde.org
