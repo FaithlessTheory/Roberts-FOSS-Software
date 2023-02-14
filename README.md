@@ -40,3 +40,12 @@ Reason:
 Allowing the sending of information (photos, videos, clipboard, files) from iOS devices to Linux/KDE and back. 
 
 Website: https://kdeconnect.kde.org
+
+### Digital Graphics
+
+#### :blue_car: Krita
+
+Reason:
+A great open source project that is progressing fast, runs well on multiple platforms and has many features.  
+
+Website: https://krita.org/en/
