@@ -49,3 +49,12 @@ Reason:
 A great open source project that is progressing fast, runs well on multiple platforms and has many features.  
 
 Website: https://krita.org/en/
+
+### NAS/Storage
+
+#### :blue_car: TrueNAS Scale
+
+Reason:
+A fully featured, secure and standards focused open source NAS system. Control your data and do it easily with Scale. 
+
+Website: https://www.truenas.com/truenas-scale/
