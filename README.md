@@ -58,3 +58,12 @@ Reason:
 A fully featured, secure and standards focused open source NAS system. Control your data and do it easily with Scale. 
 
 Website: https://www.truenas.com/truenas-scale/
+
+### Virtual Machines
+
+#### :blue_car: Proxmox
+
+Reason:
+A strong community and responsive developers make Proxmox a very stable and powerful hypervisor. I use also LXC containers in Proxmox. 
+
+Website: https://www.proxmox.com/en/
