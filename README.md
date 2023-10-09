@@ -67,3 +67,12 @@ Reason:
 A strong community and responsive developers make Proxmox a very stable and powerful hypervisor. I use also LXC containers in Proxmox. 
 
 Website: https://www.proxmox.com/en/
+
+### Misc Tools
+
+#### :blue_car: SUSE Image Writer
+
+Reason:
+SUSE and their community openSUSE create and maintain great stable and standards based software. Image Writer for me always works when creating USB Boot drives. 
+
+Website: https://software.opensuse.org/package/imagewriter
