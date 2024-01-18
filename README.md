@@ -32,6 +32,16 @@ Its VS Code without the bloat, telemetry and has great community support.
 
 Website: https://vscodium.com
 
+### 3D Modelling
+
+#### :blue_car: Blender
+
+Reason:
+Blender provides great support to all platforms including Linux and is very capable at most 3D Tasks. I have watched this grow for more than 10 years and the team behind it is really making waves. 
+
+Website: https://www.blender.org
+
+
 ### iOS/Linux Connections
 
 #### :blue_car: KDE Connect
